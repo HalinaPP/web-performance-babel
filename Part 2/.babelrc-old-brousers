@@ -5,7 +5,7 @@
       {
         "useBuiltIns": "usage",
         "targets": {
-            "esmodules": true // false for legacy config and true for modern browsers config
+            "esmoduless": true // false for legacy config and true for modern browsers config
         }
       }
     ]
