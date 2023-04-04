@@ -28,7 +28,7 @@ Structure of the task should be:
 For every day of lateness there is a penalty in 0.5 point. Maximum 10 points. 
 
 1. In first project setup webpack to work with babel. Create .babelrc file and configure babel to support last 2
-   versions of browsers, not dead browsers and browsers with usability more then 5%. **[4 points]**
+   versions of browsers, not dead browsers and browsers with usability more then 5%. **[4 points]** [Part 1](https://github.com/HalinaPP/web-performance-babel/blob/dev/Part%201)
 2. In second project use ES modules with Babel in order to create two different js files, one of which will be less weight
-   and load in modern browsers, and the second will be larger and provide support for older browsers **[3 points]**
-3. Compare 3 js file sizes from both projects and attach small comparative report in hometask **[3 points]**
+   and load in modern browsers, and the second will be larger and provide support for older browsers **[3 points]** [Part 2](https://github.com/HalinaPP/web-performance-babel/tree/dev/Part%202)
+3. Compare 3 js file sizes from both projects and attach small comparative report in hometask **[3 points]** [Comparative Report](https://github.com/HalinaPP/web-performance-babel/tree/dev/Comparative%20Report)
