@@ -1,0 +1,13 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "useBuiltIns": "usage",
+        "targets": {
+            "esmoduless": true // false for legacy config and true for modern browsers config
+        }
+      }
+    ]
+  ]
+}
