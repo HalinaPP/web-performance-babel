@@ -3,7 +3,7 @@
     [
       "@babel/preset-env",
       {
-        "targets": "last 2 versions, not dead, > 5%,",
+        "targets": "last 2 versions, not dead, not < 5%",
         "debug": true,
         "useBuiltIns": "usage" 
       }
